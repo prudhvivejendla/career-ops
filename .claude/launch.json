@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "career-ops-ui",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd /Users/prudhvi/Documents/Code/career-ops-fresh && npm run ui -- --port 3001"],
+      "port": 3001,
+      "url": "http://127.0.0.1:3001"
+    }
+  ]
+}
